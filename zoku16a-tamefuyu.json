@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamefuyu",
  "yomi": "さきのさんぎためふゆきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉末〜南北朝時代",
+  "author": "二条為冬",
+  "desc": "二条為世の子、為冬の家集。四季・恋・雑の題詠を収め、続後拾遺集・新千載集などに入った歌は集名を注記している。"
+ },
  "editions": [
   {
    "pid": "936505",
